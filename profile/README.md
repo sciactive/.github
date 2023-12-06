@@ -2,7 +2,7 @@ We are a software company out of California. Check out [our website](https://sci
 
 # Port87
 
-We are working on a new kind of email that is spam resistent and organizes itself. Check it out at [Port87.com](https://port87.com).
+We've built a new kind of email that is spam resistent and organizes itself. Check it out at [Port87.com](https://port87.com).
 
 # QuickDAV
 
